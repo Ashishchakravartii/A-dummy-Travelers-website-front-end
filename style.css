@@ -1,0 +1,297 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+
+}
+
+#brand {
+    Font-family: 'Caveat', cursive !important;
+    font-weight: 700;
+    font-size: 50px;
+    position: absolute;
+    left: 7%;
+    top: 2%;
+    
+
+}
+
+h1 {
+    font-family: 'Give You Glory', cursive;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    margin-top: 18px;
+    margin-bottom: 2px;
+    margin-left: 40px;
+}
+
+a {
+    position: absolute;
+    right: 1%;
+    top: 2%;
+}
+
+#a1 {
+    margin-right: 30px;
+}
+
+#a2 {
+    margin-right: 100px;
+}
+
+#a3 {
+    margin-right: 170px;
+}
+
+#a4 {
+    margin-right: 240px;
+}
+
+#d1 {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+
+}
+
+#blank1 {
+    width: 45%;
+    height: 28%;
+    background-color: #7dd2ce;
+
+    position: absolute;
+    top: 21%;
+    left: 2%;
+    border-radius: 20%;
+
+}
+
+#img1 {
+    width: 33%;
+    height: 45%;
+    border-radius: 100%;
+    box-shadow: 22px 10px 20px #7dd2ce;
+
+    position: absolute;
+    left: 58%;
+    top: 14.5%;
+
+}
+
+#p1 {
+    font-family: 'Tilt Neon', cursive;
+    position: absolute;
+    z-index: 2;
+    left: 5%;
+    top: 30%;
+    text-align: justify;
+}
+
+#h1 {
+    position: absolute;
+    z-index: 2;
+    left: 5%;
+    top: 23%;
+
+}
+
+#d2 {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+
+    /* position: absolute; */
+
+}
+
+#h2 {
+    position: absolute;
+    left: 60%;
+    top: 82%;
+
+}
+
+#img2 {
+    width: 33%;
+    height: 45%;
+    border-radius: 100%;
+    box-shadow: 22px 10px 20px #F6E1C3;
+
+    position: absolute;
+    left: 9%;
+    top: 70%;
+
+
+}
+
+#blank2 {
+    width: 45%;
+    height: 28%;
+    background-color: #F6E1C3;
+
+    position: absolute;
+    z-index: ;
+    top: 80%;
+    left: 54%;
+    border-radius: 20%;
+
+}
+
+#p2 {
+    font-family: 'Tilt Neon', cursive;
+    position: absolute;
+    left: 60%;
+    top: 90%;
+    text-align: justify;
+
+}
+
+#d3 {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+
+    /* position: absolute; */
+
+}
+
+#h3{
+    color: black;
+    position: absolute;
+    z-index: 2;
+    left: 5%;
+    top: 140%;
+
+}
+
+#img3{
+    width: 33%;
+    height: 45%;
+    border-radius: 100%;
+    box-shadow: 22px 10px 20px #E9A178;
+
+    position: absolute;
+    left: 58%;
+    top: 132%;
+
+
+}
+
+#blank3{
+    width: 45%;
+    height: 29%;
+    background-color: #E9A178;
+
+    position: absolute;
+    top: 139%;
+    left: 2%;
+    border-radius: 20%;
+
+
+}
+
+#p3{
+    font-family: 'Tilt Neon', cursive;
+    position: absolute;
+    z-index: 2;
+    left: 5%;
+    top: 148%;
+    text-align: justify;
+    color: black;
+
+}
+
+#d4{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+
+    /* position: absolute; */
+
+}
+
+#h4{
+    font-family: 'Tilt Neon', cursive;
+    margin-top: 120px;
+    background-color: #1C315E;
+    color: white;
+    padding: 40px;
+    position: relative;
+
+
+}
+
+#emailbox{
+    background-color: transparent;
+    color: #7dd2ce;
+    font-size: 20px;
+    padding: 8px;
+    border: 2px solid white;
+    text-align: left;
+
+
+    position: absolute;
+    left: 60%;
+    top: 200%;
+
+}
+
+button {
+    position: absolute;
+    left: 80%;
+    top: 200%;
+    border: none;
+    font-size: 20px;
+    padding: 8px;
+    background-color: #EB6440;
+}
+#d5{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 20px;
+   position: absolute;
+   left: 28%;
+   top: 220%;
+
+
+}
+#d6{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 20px;
+   position: absolute;
+   left: 58%;
+   top: 220%;
+
+
+}
+#d7{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 220%;
+    left: 90%;
+}
+#imgapp{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#imgapp1{
+    margin-top: 30px;
+    margin-right: 60px;
+}
+#d8{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 20px;
+    position: absolute;
+    top: 230%;
+    left: 5%;
+
+}
